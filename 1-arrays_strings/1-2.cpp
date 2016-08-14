@@ -1,5 +1,5 @@
 /*
-  find if two strings are permutation of each other  .
+  find if two strings are permutation of each other.
   IMP : which charset ASCII or UNICODE etc.
   CASE 1: size > 256
   CASE 2 : size <=256
